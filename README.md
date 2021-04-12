@@ -1,3 +1,3 @@
-### CodeClan E39 Flashcards
+### My daily Flashcards
 
 Use with Anki.
